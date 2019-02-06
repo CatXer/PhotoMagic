@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="lwjgl">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libs/lwjgl-release-3.2.1-custom/lwjgl.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/lwjgl-release-3.2.1-custom/lwjgl-natives-linux.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/lwjgl-release-3.2.1-custom/lwjgl-openal.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/lwjgl-release-3.2.1-custom/lwjgl-openal-natives-linux.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/libs/lwjgl-release-3.2.1-custom/lwjgl-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/lwjgl-release-3.2.1-custom/lwjgl-openal-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/libs/lwjgl-release-3.2.1-custom/lwjgl-openal-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/lwjgl-release-3.2.1-custom/lwjgl-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

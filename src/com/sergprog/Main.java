@@ -28,9 +28,12 @@ public class Main {
         }
         return hexBuilder.toString();
     }
+    public static String fromHex(String hex){
+        return "";
+    }
 
     public static void main(String[] args) throws IOException {
-        byte[] bytes = Files.readAllBytes(Paths.get("/home/serg/Изображения/icons/Test.png"));
+      /*  byte[] bytes = Files.readAllBytes(Paths.get("/home/serg/Изображения/icons/Test.png"));
         for (int in10 : bytes) {
             System.out.print(in10 + ",");
         }
@@ -44,7 +47,12 @@ public class Main {
             else System.out.println("[ \\n ],");
 
             Main m = new Main();
-            m.JavaWalkBufferedImageTest1();
+            m.JavaWalkBufferedImageTest1();*/
+
+      String h = "I love you sou much...";
+      for (int c : h.toCharArray()){
+          System.out.print(decToHex(c)+":");
+      }
     }
 
 
